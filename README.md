@@ -2,6 +2,10 @@
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
 
+## Текущая успеваемость
+
+ [АДЭУ-221](https://docs.google.com/spreadsheets/d/1ph4qJ20b0VEq_dNpZrtLn0OaAoh3fwMsQJ2IcG4opRw/edit?usp=sharing)
+
 ## Python Programming A-101
 
 - `01-ЛЕКЦИЯ` [Введение](/lectures/1_lecture_intro.pdf)
