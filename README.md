@@ -16,6 +16,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
     -  [Practice-3.1](https://colab.research.google.com/drive/1DrfaCMw-3QWTf6eCIjpdx9eU8PxPdhoJ?usp=sharing)
     -  [Practice-3.2](https://colab.research.google.com/drive/1t2l2v-ooZwkNK4VC3OALvH0PfCAKk1qO?usp=sharing)
 
+- `04-ЛЕКЦИЯ` [Рекурсия](/lectures/recursion.pdf)
+
 ## Moodle
 - [Прогресс выполнения задания](http://95.131.149.21/moodle/course/view.php?id=3)
 
