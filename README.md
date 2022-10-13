@@ -20,6 +20,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `05-ЛЕКЦИЯ` [Рекурсия](/lectures/recursion.pdf)
 
+- `06-ЛЕКЦИЯ` [Динамическое программирование]()
+
 ## Moodle
 - [Прогресс выполнения задания](http://95.131.149.21/moodle/course/view.php?id=3)
 
