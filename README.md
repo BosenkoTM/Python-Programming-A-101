@@ -14,7 +14,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `03-ЛЕКЦИЯ` [Модули и пакеты](/lectures/3_lecture_moduls_packets.pdf)
     -  [Practice-3.1](https://colab.research.google.com/drive/1DrfaCMw-3QWTf6eCIjpdx9eU8PxPdhoJ?usp=sharing)
-    -  [Practice-3.2](https://colab.research.google.com/drive/1t2l2v-ooZwkNK4VC3OALvH0PfCAKk1qO?usp=sharing)
 
 - `04-ЛЕКЦИЯ` [Итераторы и генераторы](/lectures/4_iterators_generators.pdf)
 
