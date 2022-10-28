@@ -20,7 +20,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `05-ЛЕКЦИЯ` [Рекурсия](/lectures/recursion.pdf)
 
 - `06-ЛЕКЦИЯ` [Декораторы и исключения](/lectures/6_decorators.pdf)          
-   -  [Practice-3.2](https://drive.google.com/file/d/1phOtgRmYbb-b8UmXnXxcQAj6YSZJjfMb/view?usp=sharing)
+   -  [Practice-Самостоятельная работа](https://drive.google.com/file/d/1phOtgRmYbb-b8UmXnXxcQAj6YSZJjfMb/view?usp=sharing)
 
 - `07-ЛЕКЦИЯ` [Динамическое программирование]()
 
