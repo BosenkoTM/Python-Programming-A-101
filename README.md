@@ -2,6 +2,10 @@
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
 
+## Вопросы к экзамену
+
+- 2022-2023 [АДЭУ-221](/examp/2022_2023/examp_a_101__2022_2023.pdf)
+
 ## Текущая успеваемость
 
  [АДЭУ-221](https://docs.google.com/spreadsheets/d/1ph4qJ20b0VEq_dNpZrtLn0OaAoh3fwMsQJ2IcG4opRw/edit?usp=sharing)
