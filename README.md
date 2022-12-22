@@ -28,7 +28,8 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `07-ЛЕКЦИЯ` [Динамическое программирование]()
 
-- `08-ЛЕКЦИЯ` [Вычислительная сложность алгоритмов]()
+- `08-ЛЕКЦИЯ` [Модули и пакеты]()
+-  [Practice-Самостоятельная работа 2](lectures/pract_on_lect_8_vs_code_vs_python.pdf)
 
 ## Moodle
 - [Прогресс выполнения задания](http://95.131.149.21/moodle/course/view.php?id=3)
