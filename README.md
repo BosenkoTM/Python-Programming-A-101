@@ -28,7 +28,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 - `07-ЛЕКЦИЯ` [Динамическое программирование]()
 
-- `08-ЛЕКЦИЯ` [Модули и пакеты]()
+- `08-ЛЕКЦИЯ` [Модули и пакеты](lectures/moduls_and_packages.pdf)
    -  [Practice-Самостоятельная работа 2](lectures/pract_on_lect_8_vs_code_vs_python.pdf)
 
 ## Moodle
