@@ -4,11 +4,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 
 ## Вопросы к экзамену
 
-- 2022-2023 [АДЭУ-221](/examp/2022_2023/examp_a_101__2022_2023.pdf)
-
-## Текущая успеваемость
-
- [АДЭУ-221](https://docs.google.com/spreadsheets/d/1ph4qJ20b0VEq_dNpZrtLn0OaAoh3fwMsQJ2IcG4opRw/edit?usp=sharing)
+-  [2022-2023, пересдачи](/examp/2022_2023/examp_a_101__2022_2023.pdf)
 
 ## Python Programming A-101
 
@@ -31,15 +27,7 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `08-ЛЕКЦИЯ` [Модули и пакеты](lectures/moduls_and_packages.pdf)
    -  [Practice-Самостоятельная работа 2](lectures/pract_on_lect_8_vs_code_vs_python.pdf)
 
-## Moodle
+## курс на Moodle
 - [Прогресс выполнения задания](http://95.131.149.21/moodle/course/view.php?id=3)
 
-# Lab works:
 
-3. [Типы данных](). 
-4. [Поток команд - управляющие структуры]().
-5. [Подпрограммы]().
-6. [Вычислительная сложность алгоритмов]().
-7. [Ошибки и исключения]().
-8. [Файлы и сериализация данных]().
-9. [Модули и пакеты]().
