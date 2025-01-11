@@ -2,9 +2,9 @@
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
 
-## Вопросы к экзамену
+## Вопросы к хачету(экзамену)
 
--  [2022-2023, пересдачи](/examp/2022_2023/examp_a_101__2022_2023.pdf)
+-  [2025](examp/2025/examp_a_101__2025.pdf)
 
 ## Python Programming A-101
 
