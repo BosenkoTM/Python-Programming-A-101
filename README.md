@@ -13,7 +13,6 @@ Timur Bosenko M. (bosenkotm@mgpu.ru)
 - `02-ЛЕКЦИЯ` [Типы данных](/lectures/2_lecture_type_def.pdf)
 
 - `03-ЛЕКЦИЯ` [Модули и пакеты](/lectures/3_lecture_moduls_packets.pdf)
-    -  [Practice-3.1](https://colab.research.google.com/drive/1DrfaCMw-3QWTf6eCIjpdx9eU8PxPdhoJ?usp=sharing)
 
 - `04-ЛЕКЦИЯ` [Итераторы и генераторы](/lectures/4_iterators_generators.pdf)
 
