@@ -2,7 +2,7 @@
 # Lecturer
 Timur Bosenko M. (bosenkotm@mgpu.ru)
 
-## Вопросы к хачету(экзамену)
+## Вопросы к зачету(экзамену)
 
 -  [2025](examp/2025/examp_a_101__2025.pdf)
 
